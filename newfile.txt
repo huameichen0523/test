@@ -1,6 +1,3 @@
 # newfile v2
-<<<<<<< HEAD
 # newfile master
-=======
 # newfile feature
->>>>>>> feature
